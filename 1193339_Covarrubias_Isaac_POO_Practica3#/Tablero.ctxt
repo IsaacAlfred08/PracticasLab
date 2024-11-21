@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Tablero
+comment1.params=
+comment1.target=Tablero()
+comment10.params=jugador1\ jugador2
+comment10.target=void\ mostrarTrenes(Jugador,\ Jugador)
+comment11.params=tren
+comment11.target=void\ mostrarTren(java.util.ArrayList)
+comment12.params=jugador1\ jugador2
+comment12.target=boolean\ hayMovimientosPosibles(Jugador,\ Jugador)
+comment2.params=
+comment2.target=java.util.ArrayList\ generarCementerio()
+comment3.params=
+comment3.target=FichaDomino\ robarFichaCementerio()
+comment4.params=
+comment4.target=boolean\ cementerioVacio()
+comment5.params=
+comment5.target=int\ obtenerUltimoLadoIzquierdo()
+comment6.params=
+comment6.target=int\ obtenerUltimoLadoDerecho()
+comment7.params=
+comment7.target=int\ obtenerPrimerLadoMexicano()
+comment8.params=ficha\ esJugador1
+comment8.target=void\ agregarFichaTrenMexicano(FichaDomino,\ boolean)
+comment9.params=
+comment9.target=int\ obtenerUltimoLadoMexicano()
+numComments=13

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=LetraCEnCirculo
+comment1.params=
+comment1.target=LetraCEnCirculo()
+comment2.params=x\ y
+comment2.target=void\ moveFigure(int,\ int)
+comment3.params=
+comment3.target=void\ draw()
+comment4.params=circuloColor\ letraCColor
+comment4.target=void\ changeColor(java.lang.String,\ java.lang.String)
+comment5.params=
+comment5.target=void\ erase()
+comment6.params=nuevoTamano
+comment6.target=void\ changeSize(int)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

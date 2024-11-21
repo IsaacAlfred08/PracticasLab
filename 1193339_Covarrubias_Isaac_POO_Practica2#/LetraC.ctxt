@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=LetraC
+comment1.params=tamanoCuadrado
+comment1.target=LetraC(int)
+comment2.params=
+comment2.target=void\ posicionarCuadrados()
+comment3.params=nuevoTamano
+comment3.target=void\ changeSize(int)
+comment4.params=x\ y
+comment4.target=void\ move(int,\ int)
+comment5.params=
+comment5.target=void\ draw()
+comment6.params=color
+comment6.target=void\ changeColor(java.lang.String)
+comment7.params=
+comment7.target=void\ erase()
+numComments=8

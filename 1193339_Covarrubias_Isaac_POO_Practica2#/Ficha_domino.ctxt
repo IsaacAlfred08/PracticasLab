@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Ficha_domino
+comment1.params=valor_sup\ valor_inf\ xPosition\ yPosition
+comment1.target=Ficha_domino(int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Ficha_domino\r\n
+comment2.params=
+comment2.target=void\ invertirValores()
+comment3.params=
+comment3.target=void\ voltearFicha()
+comment4.params=
+comment4.target=void\ borrarFicha()
+comment5.params=nuevoValor_sup\ nuevoValor_inf\ xPosition\ yPosition
+comment5.target=void\ valorFicha(int,\ int,\ int,\ int)
+comment6.params=
+comment6.target=void\ ponerFichaHorizontal()
+comment7.params=
+comment7.target=void\ dibujarFicha()
+numComments=8

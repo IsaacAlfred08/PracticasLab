@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=House
+comment1.params=
+comment1.target=House()
+comment1.text=\r\n\ Create\ a\ new\ house.\r\n
+comment2.params=
+comment2.target=void\ draw()
+comment2.text=\r\n\ Draw\ the\ house.\r\n
+comment3.params=
+comment3.target=void\ erase()
+comment3.text=\r\n\ Erase\ the\ house.\r\n
+comment4.params=bodyColor\ roofColor\ doorColor\ windowColor
+comment4.target=void\ changeColor(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ Change\ the\ color\ of\ the\ entire\ house\ (body,\ roof,\ door,\ and\ windows).\r\n\ \r\n\ @param\ bodyColor\ Color\ for\ the\ body\ of\ the\ house.\r\n\ @param\ roofColor\ Color\ for\ the\ roof\ of\ the\ house.\r\n\ @param\ doorColor\ Color\ for\ the\ door\ of\ the\ house.\r\n\ @param\ windowColor\ Color\ for\ the\ windows\ of\ the\ house.\r\n
+comment5.params=x\ y
+comment5.target=void\ moveHouse(int,\ int)
+comment5.text=\r\n\ Move\ the\ house\ to\ a\ new\ position\ (x,\ y)\ on\ the\ canvas.\r\n\ \r\n\ @param\ x\ Horizontal\ movement\ (relative\ to\ the\ current\ position).\r\n\ @param\ y\ Vertical\ movement\ (relative\ to\ the\ current\ position).\r\n
+numComments=6

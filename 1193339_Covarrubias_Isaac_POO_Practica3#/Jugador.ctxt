@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Jugador
+comment1.params=nombre
+comment1.target=Jugador(java.lang.String)
+comment10.params=
+comment10.target=boolean\ manoVacia()
+comment11.params=
+comment11.target=int\ contarPuntos()
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=ficha
+comment3.target=void\ agregarFicha(FichaDomino)
+comment4.params=lado1\ lado2
+comment4.target=boolean\ tieneFicha(int,\ int)
+comment5.params=lado1\ lado2
+comment5.target=void\ jugarFicha(int,\ int)
+comment6.params=
+comment6.target=java.util.ArrayList\ getMano()
+comment7.params=
+comment7.target=java.util.ArrayList\ getTren()
+comment8.params=
+comment8.target=void\ mostrarMano()
+comment9.params=ultimoLadoMexicano
+comment9.target=boolean\ puedeJugar(int)
+numComments=12
